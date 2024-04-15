@@ -1,0 +1,35 @@
+flutter doctor
+
+flutter pub get
+
+flutter run
+
+    ------------------error: packageissue
+
+    flutter clean
+
+    flutter pub get
+
+    flutter run
+
+
+
+
+dir struct
+
+myapp/
+├── android
+├── ios
+├── lib
+│   └── main.dart
+├── test
+├── backend
+│   ├── app.py
+│   ├── quantum_random.py
+│   └── blockchain.py
+├── bcdb
+│   └── dlt.py
+└── quantum
+    ├── bits_nums.py
+    ├── qiskit_.py
+    └── quantum.py
